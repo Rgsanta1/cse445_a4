@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hotels.xml - instance that conforms to Hotels.xsd -->
+<Hotels>
+  <!-- Sample from Figure 1 -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 1 -->
+  <Hotel>
+    <Name>Arizona Biltmore, A Waldorf Astoria Resort</Name>
+    <Phone>602-955-6600</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2400</Number>
+      <Street>E Missouri Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 2 -->
+  <Hotel Rating="4.6">
+    <Name>JW Marriott Phoenix Desert Ridge Resort & Spa</Name>
+    <Phone>480-293-5000</Phone>
+    <Phone>877-622-3140</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5350</Number>
+      <Street>E Marriott Dr</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85054</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 3 -->
+  <Hotel>
+    <Name>The Phoenician, a Luxury Collection Resort</Name>
+    <Phone>480-941-8200</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>6000</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 4 -->
+  <Hotel Rating="4.5">
+    <Name>Hyatt Regency Phoenix</Name>
+    <Phone>602-252-1234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>122</Number>
+      <Street>N. 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 5 -->
+  <Hotel>
+    <Name>Hilton Phoenix Resort at the Peak</Name>
+    <Phone>602-997-3600</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>7677</Number>
+      <Street>S Priest Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 6 -->
+  <Hotel Rating="4.1">
+    <Name>Sheraton Phoenix Downtown</Name>
+    <Phone>602-262-2500</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>340</Number>
+      <Street>N 3rd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 7 -->
+  <Hotel>
+    <Name>FOUND:RE Phoenix</Name>
+    <Phone>602-954-8701</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1100</Number>
+      <Street>North Central Avenue</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 8 -->
+  <Hotel Rating="4.3">
+    <Name>Hotel Valley Ho</Name>
+    <Phone>480-784-3850</Phone>
+    <Phone>866-464-8668</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>6850</Number>
+      <Street>E Main St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 9 -->
+  <Hotel>
+    <Name>Omni Scottsdale Resort & Spa at Montelucia</Name>
+    <Phone>480-627-3200</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>4949</Number>
+      <Street>E Lincoln Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 10 -->
+  <Hotel Rating="4.0">
+    <Name>Royal Palms Resort and Spa</Name>
+    <Phone>602-997-2626</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5200</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85018</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
